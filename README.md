@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Daniel
-- 🔭 I’m currently working with vue3, slim framework for building REST api and ionic for mobile app development ...
+### Hi there 👋
+Hello! I'm Daniel, and since early on, I've harbored a burning passion for web development, as well as electronic games, a true journey that captivated me. Navigating through a sea of possibilities, I undoubtedly found myself lost at the beginning. The flame of technology was burning, leading me to delve into various computer courses. But my foray into the digital world didn't start there... ...as early as 2002, I was already forging the first websites in collaboration with friends, a time when the internet was like uncharted territory.
 <!--
 **danielkzero/danielkzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
