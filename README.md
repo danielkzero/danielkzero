@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Daniel
+- 🔭 I’m currently working with vue3, slim framework for building REST api and ionic for mobile app development ...
 <!--
 **danielkzero/danielkzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
