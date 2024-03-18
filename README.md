@@ -6,7 +6,7 @@ I'm Daniel, and since early on, I've harbored a burning passion for web developm
 
 I haven't been contributing much on GitHub, to be honest. I never truly appreciated the platform's potential, which in hindsight, was a missed opportunity. Now, I understand that GitHub serves as a crucial gateway to numerous opportunities and a platform to showcase one's skills. While I've predominantly worked independently, I did have a brief stint in a team during my school days, where I first delved into the world of coding. It was during this time that I uttered the iconic greeting to my current digital abode: "Hello World!"
 
-### TECH STACK
+#### TECH STACK
 
 PHP / MYSQL / JS / JQUERY / VUE / HTML / CSS / BOOSTRAP / TAILWIND / IONIC / SLIM FRAMEWORK / APACHE / C# / UNITY2D 
 <!--
